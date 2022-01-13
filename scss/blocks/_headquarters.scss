@@ -1,0 +1,55 @@
+.headquarters__elements{
+  margin-bottom: 168px;
+  padding-left: 85px;
+}
+
+
+.headquarters__title{
+  font-family: "Fraunces", "Times New Roman", serif;
+  margin-top: 0;
+  margin-bottom: 72px;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 32px;
+  color: #83888F;
+}
+
+.headquarters__list{
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.headquarters__item:nth-child(2n){
+  margin: 0 95px;
+}
+
+
+
+.headquarters__img{
+  margin-bottom: 45.93px;
+}
+
+.headquarters__description{
+  width: 285px;
+}
+
+.headquarters__heading{
+  font-family: "Fraunces", "Times New Roman", serif;
+  margin-top: 0;
+  margin-bottom: 24px;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 36px;
+  color: #333D4B;
+}
+
+.headquarters__text{
+  margin: 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #333D4B;
+}

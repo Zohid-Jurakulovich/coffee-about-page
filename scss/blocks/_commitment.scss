@@ -1,0 +1,38 @@
+.commitment{
+  margin-bottom: 256px;
+}
+
+.commitment__box{
+  display: flex;
+  justify-content: center;
+}
+
+.commitment__img{
+  width: 445px;
+  height: 520px;
+  margin-right: 125px;
+  border-radius: 8px;
+}
+
+.commitment__description{
+  padding: 90px 0;
+  width: 540px;
+}
+
+.commitment__title{
+  font-family: "Fraunces", "Times New Roman", serif;
+  font-weight: 900;
+  margin-top: 0;
+  margin-bottom: 32px;
+  font-size: 40px;
+  line-height: 48px;
+  color: #333D4B;
+}
+
+.commitment__text{
+  margin: 0;
+  font-size: 16px;
+  line-height: 26px;
+  color: #333D4B;
+  opacity: 0.8;
+}
